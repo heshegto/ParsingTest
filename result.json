@@ -1,1199 +1,1370 @@
 {
-  "216498": {
-    "id": "216498",
-    "name": "Напиток газированный Любимая кола, 1.5л",
-    "url": "https://online.metro-cc.ru/products/napitok-gazirovannyy-lyubimaya-kola-15l",
-    "price": "118",
-    "promo_price": "109.90"
-  },
   "221368": {
     "id": "221368",
     "name": "Напиток Evervess газированный кола, 1.5л",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-evervess-kola-pet-221368",
     "price": "123",
-    "promo_price": "119.90"
+    "promo_price": "119.90",
+    "brand": "EVERVESS"
+  },
+  "216498": {
+    "id": "216498",
+    "name": "Напиток газированный Любимая кола, 1.5л",
+    "url": "https://online.metro-cc.ru/products/napitok-gazirovannyy-lyubimaya-kola-15l",
+    "price": "118",
+    "promo_price": "109.90",
+    "brand": "ЛЮБИМАЯ"
   },
   "233373": {
     "id": "233373",
     "name": "Напиток газированный Rich Pink Тоник, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-rich-pink-tonik-pet-233373",
     "price": "125",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "RICH"
   },
   "229881": {
     "id": "229881",
     "name": "Лимонад Evervess Кола без сахара, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-evervess-kola-bez-sahara-1l",
     "price": "97.90",
-    "promo_price": "89.90"
+    "promo_price": "89.90",
+    "brand": "EVERVESS"
   },
   "131442": {
     "id": "131442",
     "name": "Напиток Черноголовка Кола сильногазированный, 2л",
     "url": "https://online.metro-cc.ru/products/2l-gaz-nap-chernogolovka-kola-pet",
     "price": "125",
-    "promo_price": "119"
+    "promo_price": "119",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "221370": {
     "id": "221370",
     "name": "Напиток Evervess газированный кола, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-evervess-kola-pet-221370",
     "price": "98.90",
-    "promo_price": "89.90"
+    "promo_price": "89.90",
+    "brand": "EVERVESS"
   },
   "203401": {
     "id": "203401",
     "name": "Напиток Добрый Cola газированный, 1.5л",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-dobryy-kola-pet-203401",
     "price": "131",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203392": {
     "id": "203392",
     "name": "Напиток Добрый Cola газированный, 330мл x 24 шт",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-kola-zhb-203392",
     "price": "1677.60",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203391": {
     "id": "203391",
     "name": "Напиток Добрый Cola газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-kola-zhb-203391",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "653876": {
     "id": "653876",
     "name": "Напиток Evervess Тоник газированный, 1л",
     "url": "https://online.metro-cc.ru/products/evervess-tonik-1l-653876",
     "price": "98.90",
-    "promo_price": "89.90"
+    "promo_price": "89.90",
+    "brand": "EVERVESS"
   },
   "203513": {
     "id": "203513",
     "name": "Напиток Rich tonic Индиан газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-rich-indian-tonik-pet-203513",
     "price": "125",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "RICH"
   },
   "216816": {
     "id": "216816",
     "name": "Напиток Добрый Cola газированный без сахара, 1.5л",
     "url": "https://online.metro-cc.ru/products/napitok-dobryy-cola-gazirovannyy-bez-sahara-15l",
     "price": "131",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203402": {
     "id": "203402",
     "name": "Напиток Добрый Cola газированный, 1.5л x 9 шт",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-dobryy-kola-pet-203402",
     "price": "1161",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "491889": {
     "id": "491889",
     "name": "Напиток Laimon Fresh max среднегазированный, 330мл",
     "url": "https://online.metro-cc.ru/products/laimon-fresh-maks-gazirovannyj-033-l",
     "price": "49.90",
-    "promo_price": "39.90"
+    "promo_price": "39.90",
+    "brand": "LAIMON FRESH"
   },
   "203466": {
     "id": "203466",
     "name": "Напиток Добрый Cola газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-kola-pet-203466",
     "price": "108",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203506": {
     "id": "203506",
     "name": "Напиток Rich Cola газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-kola-rich-st",
     "price": "120",
-    "promo_price": "97.90"
+    "promo_price": "97.90",
+    "brand": "RICH"
   },
   "216490": {
     "id": "216490",
     "name": "Напиток газированный Evervess Cola, 330мл",
     "url": "https://online.metro-cc.ru/products/napitok-gazirovannyy-evervess-kola-330ml",
     "price": "57.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "EVERVESS"
   },
   "203508": {
     "id": "203508",
     "name": "Напиток Rich bitter Лемон газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-rich-bitter-lemon-pet-203508",
     "price": "125",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "RICH"
   },
   "203444": {
     "id": "203444",
     "name": "Напиток Добрый Cola без сахара газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-kola-bez-sahara-pet-203444",
     "price": "108",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203407": {
     "id": "203407",
     "name": "Напиток Добрый Лимон-лайм газированный, 1.5л",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-dobryy-limon-laym-pet-203407",
     "price": "131",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "495802": {
     "id": "495802",
     "name": "Лимонад Черноголовка Оригинальный сильногазированный, 2л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-originalniy-silnogazirovanniy-2l",
     "price": "125",
-    "promo_price": "119"
+    "promo_price": "119",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "203431": {
     "id": "203431",
     "name": "Напиток Добрый Cola газированный, 500мл x 24 шт",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-dobryy-kola-pet-203431",
     "price": "2085.60",
-    "promo_price": "1317.60"
+    "promo_price": "1317.60",
+    "brand": "ДОБРЫЙ"
   },
   "365261": {
     "id": "365261",
     "name": "Лимонад Черноголовка Тархун газированный, 2л",
     "url": "https://online.metro-cc.ru/products/iz-chernogolovki-silnogazirovannyj-tarhun-2-l-pet-6-sht",
     "price": "125",
-    "promo_price": "119"
+    "promo_price": "119",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "365214": {
     "id": "365214",
     "name": "Лимонад Черноголовка Байкал сильногазированный, 2л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-baykal-silnogazirovanniy-2l",
     "price": "125",
-    "promo_price": "119"
+    "promo_price": "119",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "125022": {
     "id": "125022",
     "name": "Лимонад Черноголовка Мандарин сильногазированный, 2л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-mandarin-silnogazirovanniy-2l",
     "price": "125",
-    "promo_price": "119"
+    "promo_price": "119",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "203430": {
     "id": "203430",
     "name": "Напиток Добрый Cola газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-dobryy-kola-pet-203430",
     "price": "89.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ДОБРЫЙ"
   },
   "127615": {
     "id": "127615",
     "name": "Напток Волковская пивоварня Волчок Грейпфрут-гибискус, 450мл",
     "url": "https://online.metro-cc.ru/products/045-l-gaz-nap-volchok-grejpf-gibiskus-but",
     "price": "81.90",
-    "promo_price": "59.90"
+    "promo_price": "59.90",
+    "brand": "ВОЛКОВСКАЯ ПИВОВАРНЯ"
   },
   "220085": {
     "id": "220085",
     "name": "Напиток Добрый Cola без сахара газированный, 330мл x 12 шт",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-kola-bez-sahara-zhb",
     "price": "838.80",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203399": {
     "id": "203399",
     "name": "Напиток Добрый Cola без сахара газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-kola-bez-sahara-zhb-203399",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "205423": {
     "id": "205423",
     "name": "Напиток Joy Party Дюшес газированный, 750мл",
     "url": "https://online.metro-cc.ru/products/075l-napitok-joy-party-dyushes-gazirovannyy-ba-st",
     "price": "189",
-    "promo_price": "139"
+    "promo_price": "139",
+    "brand": "JOY PARTY"
   },
   "426837": {
     "id": "426837",
     "name": "Лимонад Черноголовка Дюшес газированный, 2л",
     "url": "https://online.metro-cc.ru/products/iz-chernogolovki-silnogazirovannyj-dyushes-2-l-pet-6-sht",
     "price": "125",
-    "promo_price": "119"
+    "promo_price": "119",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "127616": {
     "id": "127616",
     "name": "Напиток Волковская пивоварня Волчок Манго-кокос, 450мл",
     "url": "https://online.metro-cc.ru/products/045-l-gaz-nap-volchok-mango-kokos-but",
     "price": "81.90",
-    "promo_price": "59.90"
+    "promo_price": "59.90",
+    "brand": "ВОЛКОВСКАЯ ПИВОВАРНЯ"
   },
   "203394": {
     "id": "203394",
     "name": "Напиток Добрый Апельсин с витамином C газированный, 330мл x 12 шт",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-apelsin-vit-s-zhb-203394",
     "price": "838.80",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "101178": {
     "id": "101178",
     "name": "Напиток Evervess Тоник газированный, 250мл",
     "url": "https://online.metro-cc.ru/products/gazirovannyj-napitok-evervess-st-b-025-l",
     "price": "119",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "EVERVESS"
   },
   "205426": {
     "id": "205426",
     "name": "Напиток безалкогольный Joy Party Детское шампанское клубника, 750мл",
     "url": "https://online.metro-cc.ru/products/075l-napitok-joy-party-klubnika-gazirovannyy-ba-st-205426",
     "price": "189",
-    "promo_price": "139"
+    "promo_price": "139",
+    "brand": "JOY PARTY"
   },
   "203397": {
     "id": "203397",
     "name": "Напиток Добрый Лимон-лайм газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-limonlaym-zhb",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203403": {
     "id": "203403",
     "name": "Напиток Добрый Апельсин газированный, 1.5л",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-dobryy-apelsin-vit-s-pet-203403",
     "price": "131",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203398": {
     "id": "203398",
     "name": "Напиток Добрый Лимон-лайм газированный, 330мл x 12 шт",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-lim-laym-zhb",
     "price": "838.80",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "121446": {
     "id": "121446",
     "name": "Напиток Evervess Тоник газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033-l-gaz-nap-evervess-indian-tonik-zh-b-121446",
     "price": "57.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "EVERVESS"
   },
   "203406": {
     "id": "203406",
     "name": "Напиток Добрый Манго-маракуйя газированный, 1.5л x 9 шт",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-dobryy-mango-marakuyya-pet",
     "price": "1161",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203404": {
     "id": "203404",
     "name": "Напиток Добрый Апельсин с витамином C газированный, 1.5л x 9 шт",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-dobryy-apelsin-vit-s-pet",
     "price": "1161",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203427": {
     "id": "203427",
     "name": "Напиток Добрый Апельсин с витамином C газированный, 500мл x 24 шт",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-dobryy-apelsin-vit-s-pet-203427",
     "price": "2085.60",
-    "promo_price": "1317.60"
+    "promo_price": "1317.60",
+    "brand": "ДОБРЫЙ"
   },
   "422073": {
     "id": "422073",
     "name": "Лимонад Черноголовка Тархун сильногазированный, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-tarkhun-silnogazirovanniy-1l",
     "price": "127",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "206534": {
     "id": "206534",
     "name": "Напиток Chillout Bitter Tonic Грейпфрут сильногазированный, 900мл",
     "url": "https://online.metro-cc.ru/products/09l-gaz-nap-chillout-bitter-greypfrut-pet-206534",
     "price": "106",
-    "promo_price": "68.90"
+    "promo_price": "68.90",
+    "brand": "CHILLOUT"
   },
   "203428": {
     "id": "203428",
     "name": "Напиток Добрый Cola без сахара газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-dobryy-kola-bez-sahara-pet-203428",
     "price": "89.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ДОБРЫЙ"
   },
   "652435": {
     "id": "652435",
     "name": "Напиток Evervess Горький Лимон газированный, 1л",
     "url": "https://online.metro-cc.ru/products/gazirovannyj-evervess-gorkij-limon-1l-652435",
     "price": "98.90",
-    "promo_price": "89.90"
+    "promo_price": "89.90",
+    "brand": "EVERVESS"
   },
   "203500": {
     "id": "203500",
     "name": "Напиток Rich tonic Индиан газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-rich-indian-tonik-203500",
     "price": "80.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "RICH"
   },
   "206570": {
     "id": "206570",
     "name": "Напиток Chillout Premium English Tonic сильногазированный, 900мл",
     "url": "https://online.metro-cc.ru/products/09l-gaz-nap-chillout-premium-english-tonic-pet-206570",
     "price": "106",
-    "promo_price": "68.90"
+    "promo_price": "68.90",
+    "brand": "CHILLOUT"
   },
   "233333": {
     "id": "233333",
     "name": "Напиток газированный Rich Cola без сахара, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-rich-kola-bsahara-st-233333",
     "price": "120",
-    "promo_price": "97.90"
+    "promo_price": "97.90",
+    "brand": "RICH"
   },
   "203408": {
     "id": "203408",
     "name": "Напиток Добрый Лимон-лайм газированный, 1.5л x 9 шт",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-dobryy-limon-laym-pet-203408",
     "price": "1161",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "350763": {
     "id": "350763",
     "name": "Квас Русский Дар Традиционный газированный, 2л",
     "url": "https://online.metro-cc.ru/products/kvas-russkij-dar-tradicionnyj-2l",
     "price": "130",
-    "promo_price": "109.90"
+    "promo_price": "109.90",
+    "brand": "РУССКИЙ ДАР"
   },
   "229894": {
     "id": "229894",
     "name": "Лимонад Черноголовка кола, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-kola-1l",
     "price": "90.90",
-    "promo_price": "69.90"
+    "promo_price": "69.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "203429": {
     "id": "203429",
     "name": "Напиток Добрый Cola без сахара газированный, 500мл x 24 шт",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-dobryy-kola-bez-sahara-pet-203429",
     "price": "2085.60",
-    "promo_price": "1317.60"
+    "promo_price": "1317.60",
+    "brand": "ДОБРЫЙ"
   },
   "135711": {
     "id": "135711",
     "name": "Тоник Evervess имбирный эль, 1.5л",
     "url": "https://online.metro-cc.ru/products/tonik-evervess-imbirnyy-el-15l",
     "price": "123",
-    "promo_price": "119"
+    "promo_price": "119",
+    "brand": "EVERVESS"
   },
   "203468": {
     "id": "203468",
     "name": "Напиток Добрый Лимон-лайм газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-lim-laym-pet-203468",
     "price": "108",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203445": {
     "id": "203445",
     "name": "Напиток Добрый Cola без сахара газированный, 1л x 12 шт",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-kola-bez-sahara-pet-203445",
     "price": "1320",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203469": {
     "id": "203469",
     "name": "Напиток Добрый Лимон-лайм газированный, 1л x 12 шт",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-lim-laym-pet-203469",
     "price": "1320",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "229870": {
     "id": "229870",
     "name": "Напиток Черноголовка Кола сильногазированный, 330мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-kola-330l",
     "price": "56.90",
-    "promo_price": "36.90"
+    "promo_price": "36.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "203409": {
     "id": "203409",
     "name": "Напиток Rich Cola газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-kola-rich-zhb-203409",
     "price": "80.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "RICH"
   },
   "134129": {
     "id": "134129",
     "name": "Напиток Evervess Итальянский Аперо, 1л",
     "url": "https://online.metro-cc.ru/products/tonik-evervess-aperol-1l",
     "price": "98.90",
-    "promo_price": "89.90"
+    "promo_price": "89.90",
+    "brand": "EVERVESS"
   },
   "203396": {
     "id": "203396",
     "name": "Напиток Добрый Манго-маракуйя газированный, 330мл x 12 шт",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-mangomarakuyya-zhb",
     "price": "838.80",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203393": {
     "id": "203393",
     "name": "Напиток Добрый Апельсин газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-apelsin-vit-s-zhb-203393",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203518": {
     "id": "203518",
     "name": "Напиток Rich bitter Мандарин газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-rich-mandarin-pet-203518",
     "price": "125",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "RICH"
   },
   "203434": {
     "id": "203434",
     "name": "Напиток Добрый Лимон-лайм газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-dobryy-limonlaym-pet-203434",
     "price": "89.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ДОБРЫЙ"
   },
   "203436": {
     "id": "203436",
     "name": "Напиток Добрый Лимон-лайм газированный, 500мл x 24 шт",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-dobryy-limonlaym-pet-203436",
     "price": "2085.60",
-    "promo_price": "1317.60"
+    "promo_price": "1317.60",
+    "brand": "ДОБРЫЙ"
   },
   "203510": {
     "id": "203510",
     "name": "Напиток Rich bitter Гранат газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-rich-granat-pet-203510",
     "price": "125",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "RICH"
   },
   "229888": {
     "id": "229888",
     "name": "Лимонад Черноголовка Байкал, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-baykal-1l",
     "price": "90.90",
-    "promo_price": "69.90"
+    "promo_price": "69.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "203502": {
     "id": "203502",
     "name": "Напиток Rich tonic Индиан газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-rich-indian-tonik-st-203502",
     "price": "120",
-    "promo_price": "97.90"
+    "promo_price": "97.90",
+    "brand": "RICH"
   },
   "221385": {
     "id": "221385",
     "name": "Напиток Frustyle газированный лимон-лайм, 1.5л",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-frustyle-limonlaym-pet-221385",
     "price": "119",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "FRUSTYLE"
   },
   "203442": {
     "id": "203442",
     "name": "Напиток Добрый Апельсин с витамином C газированный, 1л x 12 шт",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-apelsin-vitamin-s-pet",
     "price": "1320",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "134128": {
     "id": "134128",
     "name": "Напиток Evervess Манящая Гранада, 1л",
     "url": "https://online.metro-cc.ru/products/tonik-evervess-granat-1l",
     "price": "98.90",
-    "promo_price": "89.90"
+    "promo_price": "89.90",
+    "brand": "EVERVESS"
   },
   "229868": {
     "id": "229868",
     "name": "Лимонад Черноголовка Дюшес, 330мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-dyushes-330ml",
     "price": "56.90",
-    "promo_price": "36.90"
+    "promo_price": "36.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "203439": {
     "id": "203439",
     "name": "Напиток Добрый Апельсин газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-apelsin-vit-s-pet",
     "price": "108",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "221363": {
     "id": "221363",
     "name": "Напиток Любимая газированный кола, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-lyubimaya-kola-zhb-221363",
     "price": "49.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЛЮБИМАЯ"
   },
   "221525": {
     "id": "221525",
     "name": "Напиток Добрый Cola Ваниль газированный, 1.5л",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-dobryy-kola-vanil-pet-221525",
     "price": "131",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "131441": {
     "id": "131441",
     "name": "Напиток Черноголовка Кола сильногазированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-chernogolovka-kola-st",
     "price": "127",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "647679": {
     "id": "647679",
     "name": "Лимонад Черноголовка Буратино сильногазированный, 2л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-buratino-silnogazirovanniy-2l",
     "price": "125",
-    "promo_price": "119"
+    "promo_price": "119",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "221821": {
     "id": "221821",
     "name": "Напиток Frustyle газированный лимон-лайм, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-frustyle-limonlaym-zhb-221821",
     "price": "60.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "FRUSTYLE"
   },
   "203494": {
     "id": "203494",
     "name": "Напиток Rich bitter Лемон газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-rich-bitter-lemon-203494",
     "price": "80.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "RICH"
   },
   "229879": {
     "id": "229879",
     "name": "Лимонад Evervess Кола без сахара, 500мл",
     "url": "https://online.metro-cc.ru/products/limonad-evervess-kola-bez-sahara-500ml",
     "price": "69.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "EVERVESS"
   },
   "134134": {
     "id": "134134",
     "name": "Напиток Frustyle Лимон-Лайм газированный, 1л",
     "url": "https://online.metro-cc.ru/products/napitok-gazirovannyy-frustyle-limon-laym-1l",
     "price": "92.90",
-    "promo_price": "89.90"
+    "promo_price": "89.90",
+    "brand": "FRUSTYLE"
   },
   "131555": {
     "id": "131555",
     "name": "Напиток газированный Fresh Bar Magic Skills, 480мл",
     "url": "https://online.metro-cc.ru/products/048-l-gaz-nap-ffresh-bar-medzhik-skills-131555",
     "price": "52.90",
-    "promo_price": "44.90"
+    "promo_price": "44.90",
+    "brand": "FRESH BAR"
   },
   "121451": {
     "id": "121451",
     "name": "Напиток Evervess Имбирный эль газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033-l-gaz-nap-evervess-imbirnyj-el-zh-b-121451",
     "price": "57.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "EVERVESS"
   },
   "216501": {
     "id": "216501",
     "name": "Напиток газированный Любимая кола, 1л",
     "url": "https://online.metro-cc.ru/products/gazirovannyj-lyubimaya-kola-1l",
     "price": "90.90",
-    "promo_price": "79.90"
+    "promo_price": "79.90",
+    "brand": "ЛЮБИМАЯ"
   },
   "203438": {
     "id": "203438",
     "name": "Напиток Добрый Манго-маракуйя газированный, 500мл x 24 шт",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-dobryy-mang-mar-pet-203438",
     "price": "2085.60",
-    "promo_price": "1317.60"
+    "promo_price": "1317.60",
+    "brand": "ДОБРЫЙ"
   },
   "203504": {
     "id": "203504",
     "name": "Напиток Rich bitter Мандарин газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-rich-mandarin-203504",
     "price": "80.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "RICH"
   },
   "206536": {
     "id": "206536",
     "name": "Напиток Chillout Bitter Tonic Лимон сильногазированный, 900мл",
     "url": "https://online.metro-cc.ru/products/09l-gaz-nap-chillout-bitter-limon-pet-206536",
     "price": "106",
-    "promo_price": "68.90"
+    "promo_price": "68.90",
+    "brand": "CHILLOUT"
   },
   "203470": {
     "id": "203470",
     "name": "Напиток Добрый Манго-маракуйя газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-mang-mar-pet-203470",
     "price": "108",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "221527": {
     "id": "221527",
     "name": "Напиток Добрый Cola Карамель газированный, 1.5л",
     "url": "https://online.metro-cc.ru/products/napitok-dobriy-cola-karamel-gazirovanniy-1-5l",
     "price": "131",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "422072": {
     "id": "422072",
     "name": "Лимонад Черноголовка Дюшес сильногазированный, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-dyushes-silnogazirovanniy-1l",
     "price": "127",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "422071": {
     "id": "422071",
     "name": "Лимонад Черноголовка Байкал сильногазированный, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-baykal-silnogazirovanniy-1l",
     "price": "127",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "221383": {
     "id": "221383",
     "name": "Напиток Frustyle газированный кактус-киви, 1.5л",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-frustyle-kaktuskivi-pet-221383",
     "price": "119",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "FRUSTYLE"
   },
   "203498": {
     "id": "203498",
     "name": "Напиток Rich bitter Гранат газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-rich-granat",
     "price": "80.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "RICH"
   },
   "203426": {
     "id": "203426",
     "name": "Напиток Добрый Апельсин газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-dobryy-apelsin-vit-s-pet-203426",
     "price": "89.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ДОБРЫЙ"
   },
   "221372": {
     "id": "221372",
     "name": "Напиток Frustyle газированный апельсин, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-frustyle-apelsin-zhb-221372",
     "price": "60.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "FRUSTYLE"
   },
   "121448": {
     "id": "121448",
     "name": "Напиток Evervess Горький Лимон газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033-l-gaz-nap-evervess-bitter-lemon-zh-b-121448",
     "price": "57.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "EVERVESS"
   },
   "221366": {
     "id": "221366",
     "name": "Напиток Evervess газированный кола, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-evervess-kola-pet-221366",
     "price": "75.90",
-    "promo_price": "69.90"
+    "promo_price": "69.90",
+    "brand": "EVERVESS"
   },
   "221377": {
     "id": "221377",
     "name": "Напиток Frustyle газированный апельсин, 1.5л",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-frustyle-apelsin-pet-221377",
     "price": "119",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "FRUSTYLE"
   },
   "203405": {
     "id": "203405",
     "name": "Напиток Добрый Манго-маракуйя газированный, 1.5л",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-dobr-mangomarakuyya-pet",
     "price": "131",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "233313": {
     "id": "233313",
     "name": "Напиток газированный Bundaberg имбирный, 0.375л",
     "url": "https://online.metro-cc.ru/products/0375l-gaz-nap-bundaberg-imbirnyy-233313",
     "price": "229",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "BUNDABERG"
   },
   "229877": {
     "id": "229877",
     "name": "Лимонад Evervess Кола без сахара, 250мл",
     "url": "https://online.metro-cc.ru/products/limonad-evervess-kola-bez-sahara-250ml",
     "price": "119",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "EVERVESS"
   },
   "233335": {
     "id": "233335",
     "name": "Напиток газированный Rich Pink Тоник, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-rich-pink-tonik-zhb-233335",
     "price": "80.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "RICH"
   },
   "131553": {
     "id": "131553",
     "name": "Напиток газированный Fresh Bar Лайм-лимон, 480мл",
     "url": "https://online.metro-cc.ru/products/048-l-gaz-nap-fresh-bar-lajm-limon-131553",
     "price": "52.90",
-    "promo_price": "44.90"
+    "promo_price": "44.90",
+    "brand": "FRESH BAR"
   },
   "125020": {
     "id": "125020",
     "name": "Лимонад Черноголовка Мандарин сильногазированный, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-mandarin-silnogazirovanniy-1l",
     "price": "127",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "131547": {
     "id": "131547",
     "name": "Напиток газированный Fresh Bar Апельсин-лимон, 480мл",
     "url": "https://online.metro-cc.ru/products/048-l-gaz-nap-fresh-bar-apelsin-limon-131547",
     "price": "52.90",
-    "promo_price": "44.90"
+    "promo_price": "44.90",
+    "brand": "FRESH BAR"
   },
   "135099": {
     "id": "135099",
     "name": "Напиток Черноголовка Кола сильногазированный, 500мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-kola-500ml",
     "price": "57.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "131551": {
     "id": "131551",
     "name": "Напиток газированный Fresh Bar Кола-лимон, 480мл",
     "url": "https://online.metro-cc.ru/products/048-l-gaz-nap-fresh-bar-kola-limon-131551",
     "price": "52.90",
-    "promo_price": "44.90"
+    "promo_price": "44.90",
+    "brand": "FRESH BAR"
   },
   "203472": {
     "id": "203472",
     "name": "Напиток Добрый Вишня газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-limonad-dobryy-vishnya-pet-203472",
     "price": "89.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ДОБРЫЙ"
   },
   "203395": {
     "id": "203395",
     "name": "Напиток Добрый Манго-маракуйя газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-mang-mar-zhb",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "134126": {
     "id": "134126",
     "name": "Напиток Evervess Манящая Гранада, 330мл",
     "url": "https://online.metro-cc.ru/products/tonik-evervess-granat-330ml",
     "price": "57.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "EVERVESS"
   },
   "422082": {
     "id": "422082",
     "name": "Лимонад Черноголовка Буратино сильногазированный, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-buratino-silnogazirovanniy-1l",
     "price": "127",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "229866": {
     "id": "229866",
     "name": "Лимонад Черноголовка Байкал, 330мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-baykal-330ml",
     "price": "56.90",
-    "promo_price": "36.90"
+    "promo_price": "36.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "203484": {
     "id": "203484",
     "name": "Напиток Добрый Вишня газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-limonad-dobryy-vishnya-pet-203484",
     "price": "108",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "422078": {
     "id": "422078",
     "name": "Лимонад Черноголовка Дюшес сильногазированный, 500мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-dyushes-silnogazirovanniy-500ml",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "134135": {
     "id": "134135",
     "name": "Напиток Evervess Пленительный Апельсин, 250мл",
     "url": "https://online.metro-cc.ru/products/tonik-evervess-apelsin-250ml",
     "price": "119",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "EVERVESS"
   },
   "229491": {
     "id": "229491",
     "name": "Напиток газированный Frustyle кактус-киви, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-frustayl-kaktuskivi-pet-229491",
     "price": "73.90",
-    "promo_price": "69.90"
+    "promo_price": "69.90",
+    "brand": "FRUSTYLE"
   },
   "221375": {
     "id": "221375",
     "name": "Напиток Frustyle газированный лимон-лайм, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-frustyle-limonlaym-pet-221375",
     "price": "73.90",
-    "promo_price": "69.90"
+    "promo_price": "69.90",
+    "brand": "FRUSTYLE"
   },
   "233315": {
     "id": "233315",
     "name": "Напиток газированный Bundaberg маракуйя, 0.375л",
     "url": "https://online.metro-cc.ru/products/0375l-gaz-nap-bundaberg-marakuyya-233315",
     "price": "229",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "BUNDABERG"
   },
   "235788": {
     "id": "235788",
     "name": "Напиток Любимая Cola газированный, 2л",
     "url": "https://online.metro-cc.ru/products/napitok-lyubimaya-cola-gazirovannyy-2l",
     "price": "99.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЛЮБИМАЯ"
   },
   "350964": {
     "id": "350964",
     "name": "Квас Русский Дар Традиционный, 500мл x 12 шт",
     "url": "https://online.metro-cc.ru/products/kvas-russkij-dar-tradicionnyj-05-l",
     "price": "718.80",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "РУССКИЙ ДАР"
   },
   "131549": {
     "id": "131549",
     "name": "Напиток газированный Fresh Bar Double Funny, 480мл",
     "url": "https://online.metro-cc.ru/products/048-l-gaz-nap-fresh-bar-dabl-fanni-131549",
     "price": "52.90",
-    "promo_price": "44.90"
+    "promo_price": "44.90",
+    "brand": "FRESH BAR"
   },
   "121778": {
     "id": "121778",
     "name": "Напиток Evervess Имбирный эль газированный, 1л",
     "url": "https://online.metro-cc.ru/products/evervess-tonik-imbirnyj-el-1l-121778",
     "price": "98.90",
-    "promo_price": "89.90"
+    "promo_price": "89.90",
+    "brand": "EVERVESS"
   },
   "350955": {
     "id": "350955",
     "name": "Квас Русский Дар Традиционный, 500мл",
     "url": "https://online.metro-cc.ru/products/kvas-russkij-dar-tradicionnyj-05-l-350955",
     "price": "70.90",
-    "promo_price": "59.90"
+    "promo_price": "59.90",
+    "brand": "РУССКИЙ ДАР"
   },
   "233331": {
     "id": "233331",
     "name": "Напиток газированный Добрый Cola, 250мл",
     "url": "https://online.metro-cc.ru/products/025l-gaz-nap-dobryy-kola-st-233331",
     "price": "69.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "221523": {
     "id": "221523",
     "name": "Напиток Добрый Cola Карамель газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/napitok-dobriy-cola-karamel-gazirovanniy-500ml",
     "price": "89.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ДОБРЫЙ"
   },
   "135102": {
     "id": "135102",
     "name": "Лимонад Черноголовка Оригинальный газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-originalnyj-500ml",
     "price": "57.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "125018": {
     "id": "125018",
     "name": "Лимонад Черноголовка Мандарин сильногазированный, 500мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-mandarin-silnogazirovanniy-500ml",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "422081": {
     "id": "422081",
     "name": "Лимонад Черноголовка Буратино сильногазированный, 500мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-buratino-silnogazirovanniy-500ml",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "134132": {
     "id": "134132",
     "name": "Напиток Frustyle Апельсин газированный, 1л",
     "url": "https://online.metro-cc.ru/products/napitok-gazirovannyy-frustyle-apelsin-1l",
     "price": "92.90",
-    "promo_price": "89.90"
+    "promo_price": "89.90",
+    "brand": "FRUSTYLE"
   },
   "221518": {
     "id": "221518",
     "name": "Напиток Добрый Cola Ваниль газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-dobryy-kola-vanil-zhb-221518",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "216494": {
     "id": "216494",
     "name": "Напиток газированный Любимая кола, 500мл",
     "url": "https://online.metro-cc.ru/products/napitok-gazirovannyy-lyubimaya-kola-500ml",
     "price": "61.90",
-    "promo_price": "59.90"
+    "promo_price": "59.90",
+    "brand": "ЛЮБИМАЯ"
   },
   "233311": {
     "id": "233311",
     "name": "Напиток газированный Bundaberg ананас-кокос, 0.375л",
     "url": "https://online.metro-cc.ru/products/0375l-gaz-nap-bundaberg-ananaskokos-233311",
     "price": "229",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "BUNDABERG"
   },
   "135101": {
     "id": "135101",
     "name": "Лимонад Черноголовка Байкал газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-bajkal-500ml",
     "price": "57.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "221380": {
     "id": "221380",
     "name": "Напиток Frustyle газированный гуава-карамель, 1.5л",
     "url": "https://online.metro-cc.ru/products/15l-gaz-nap-frustyle-guavakaramel-pet-221380",
     "price": "119",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "FRUSTYLE"
   },
   "134133": {
     "id": "134133",
     "name": "Напиток Evervess Искрящийся Лимон-Лайм, 250мл",
     "url": "https://online.metro-cc.ru/products/tonik-evervess-lemon-laym-250ml",
     "price": "119",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "EVERVESS"
   },
   "131440": {
     "id": "131440",
     "name": "Напиток Черноголовка Кола сильногазированный, 500мл",
     "url": "https://online.metro-cc.ru/products/05-l-gaz-nap-chernogolovka-kola-st",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "482016": {
     "id": "482016",
     "name": "Напиток Evervess Имбирный эль газированный, 250мл",
     "url": "https://online.metro-cc.ru/products/tonik-evervess-imbirnyj-025-l",
     "price": "119",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "EVERVESS"
   },
   "229738": {
     "id": "229738",
     "name": "Напиток Chillout Premium English Tonic, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-chillout-tonik-angliyskiy-st-229738",
     "price": "62.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "CHILLOUT"
   },
   "221529": {
     "id": "221529",
     "name": "Напиток Добрый Cola Ваниль газированный, 1л",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-kola-vanil-pet-221529",
     "price": "108",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "221531": {
     "id": "221531",
     "name": "Напиток Добрый Cola Карамель газированный, 1л",
     "url": "https://online.metro-cc.ru/products/napitok-dobriy-cola-karamel-gazirovanniy-1l",
     "price": "108",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "229736": {
     "id": "229736",
     "name": "Напиток Chillout Cola газированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-chillout-kola-st-229736",
     "price": "62.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "CHILLOUT"
   },
   "206472": {
     "id": "206472",
     "name": "Напиток Chillout Bitter Tonic Грейпфрут сильногазированный, 330мл, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-chillout-bitter-greypfrut-zhb-206472",
     "price": "64.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "CHILLOUT"
   },
   "203467": {
     "id": "203467",
     "name": "Напиток Добрый Cola газированный, 1л x 12 шт",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-kola-pet-203467",
     "price": "1320",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "229297": {
     "id": "229297",
     "name": "Напиток газированный Frustyle апельсин, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-frustayl-apelsin-pet-229297",
     "price": "73.90",
-    "promo_price": "69.90"
+    "promo_price": "69.90",
+    "brand": "FRUSTYLE"
   },
   "229489": {
     "id": "229489",
     "name": "Напиток газированный Frustyle гуава-карамель, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-frustayl-guavakaramel-pet-229489",
     "price": "73.90",
-    "promo_price": "69.90"
+    "promo_price": "69.90",
+    "brand": "FRUSTYLE"
   },
   "233329": {
     "id": "233329",
     "name": "Напиток газированный Добрый Cola без сахара, 250мл",
     "url": "https://online.metro-cc.ru/products/025l-gaz-nap-dobryy-kola-bsahara-st-233329",
     "price": "69.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203471": {
     "id": "203471",
     "name": "Напиток Добрый Манго-маракуйя газированный, 1л x 12 шт",
     "url": "https://online.metro-cc.ru/products/1l-gaz-nap-dobryy-mang-mar-pet-203471",
     "price": "1320",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "236124": {
     "id": "236124",
     "name": "Напиток Черноголовка Cola без сахара газированная, 1л",
     "url": "https://online.metro-cc.ru/products/napitok-chernogolovka-cola-bez-sahara-gazirovannaya-1l",
     "price": "79.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "203485": {
     "id": "203485",
     "name": "Напиток Добрый Лимонады России Вишня газированный, 1л x 12 шт",
     "url": "https://online.metro-cc.ru/products/1l-limonad-dobryy-vishnya-pet-203485",
     "price": "1320",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ДОБРЫЙ"
   },
   "203475": {
     "id": "203475",
     "name": "Напиток Добрый Лимонады России Вишня газированный, 500мл x 24 шт",
     "url": "https://online.metro-cc.ru/products/05l-limonad-dobryy-vishnya-pet-203475",
     "price": "2085.60",
-    "promo_price": "1317.60"
+    "promo_price": "1317.60",
+    "brand": "ДОБРЫЙ"
   },
   "216457": {
     "id": "216457",
     "name": "Напиток газированный Evervess Cola, 250мл",
     "url": "https://online.metro-cc.ru/products/napitok-gazirovannyy-evervess-kola-250ml",
     "price": "119",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "EVERVESS"
   },
   "206588": {
     "id": "206588",
     "name": "Напиток Черноголовка Кола без сахара сильногазированный, 2л",
     "url": "https://online.metro-cc.ru/products/2l-gaz-nap-chernogolovka-kola-bez-sahara-pet-206588",
     "price": "125",
-    "promo_price": "119"
+    "promo_price": "119",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "58461": {
     "id": "58461",
     "name": "Лимонад Черноголовка Крюшон сильногазированный, 2л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-kryushon-silnogazirovanniy-2l",
     "price": "125",
-    "promo_price": "119"
+    "promo_price": "119",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "127617": {
     "id": "127617",
     "name": "Напиток Волковская пивоварня Волчок Персик, 450мл",
     "url": "https://online.metro-cc.ru/products/045-l-gaz-nap-volchok-persik-but",
     "price": "81.90",
-    "promo_price": "59.90"
+    "promo_price": "59.90",
+    "brand": "ВОЛКОВСКАЯ ПИВОВАРНЯ"
   },
   "135123": {
     "id": "135123",
     "name": "Напиток газированный Dr Pepper вишня безалкогольный, 330мл",
     "url": "https://online.metro-cc.ru/products/gazirovannyj-dr-pepper-vishnya-330ml",
     "price": "102",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "DR PEPPER"
   },
   "229890": {
     "id": "229890",
     "name": "Лимонад Черноголовка Дюшес, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-dyushes-1l",
     "price": "90.90",
-    "promo_price": "69.90"
+    "promo_price": "69.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "40812": {
     "id": "40812",
     "name": "Лимонад Черноголовка Оригинальный сильногазированный, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-originalniy-silnogazirovanniy-1l",
     "price": "127",
-    "promo_price": "99.90"
+    "promo_price": "99.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "125919": {
     "id": "125919",
     "name": "Напиток Натахтари Лимонад Крем-сливки газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/natahtari-limonad-krem-slivki-gazirovannyj-05-l",
     "price": "133",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "НАТАХТАРИ"
   },
   "229896": {
     "id": "229896",
     "name": "Лимонад Черноголовка мандарин, 1л",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-mandarin-1l",
     "price": "90.90",
-    "promo_price": "69.90"
+    "promo_price": "69.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "539052": {
     "id": "539052",
     "name": "Квас Царские припасы живой, 2л",
     "url": "https://online.metro-cc.ru/products/art_539052",
     "price": "191",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЦАРСКИЕ ПРИПАСЫ"
   },
   "127614": {
     "id": "127614",
     "name": "Напиток Волковская пивоварня Волчок Арбуз, 450мл",
     "url": "https://online.metro-cc.ru/products/045-l-gaz-nap-volchok-arbuz-but",
     "price": "81.90",
-    "promo_price": "59.90"
+    "promo_price": "59.90",
+    "brand": "ВОЛКОВСКАЯ ПИВОВАРНЯ"
   },
   "266173": {
     "id": "266173",
     "name": "Квас Царские припасы Вкусный, 2л",
     "url": "https://online.metro-cc.ru/products/kvas-vkusnyj-2l",
     "price": "211",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЦАРСКИЕ ПРИПАСЫ"
   },
   "539053": {
     "id": "539053",
     "name": "Квас Царские припасы Традиционный живой, 1л",
     "url": "https://online.metro-cc.ru/products/art_539053",
     "price": "120",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЦАРСКИЕ ПРИПАСЫ"
   },
   "426839": {
     "id": "426839",
     "name": "Лимонад Черноголовка Тархун сильногазированный, 500мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-tarkhun-silnogazirovanniy-500ml",
     "price": "67.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "213191": {
     "id": "213191",
     "name": "Напиток Ипатово газированный тархун, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gazirovannyy-napitok-ipatovo-tarhun",
     "price": "57.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "ИПАТОВО"
   },
   "134127": {
     "id": "134127",
     "name": "Напиток Evervess Итальянский Аперо, 330мл",
     "url": "https://online.metro-cc.ru/products/tonik-evervess-aperol-330ml",
     "price": "57.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "EVERVESS"
   },
   "206489": {
     "id": "206489",
     "name": "Напиток Chillout Premium English Tonic сильногазированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-chillout-premium-english-tonic-zhb-206489",
     "price": "64.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "CHILLOUT"
   },
   "221521": {
     "id": "221521",
     "name": "Напиток Добрый Cola Ваниль газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/05l-gaz-nap-dobryy-kola-vanil-pet-221521",
     "price": "89.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ДОБРЫЙ"
   },
   "135100": {
     "id": "135100",
     "name": "Лимонад Черноголовка Дюшес газированный, 500мл",
     "url": "https://online.metro-cc.ru/products/limonad-chernogolovka-dyushes-500ml",
     "price": "57.90",
-    "promo_price": "54.90"
+    "promo_price": "54.90",
+    "brand": "ЧЕРНОГОЛОВКА"
   },
   "206484": {
     "id": "206484",
     "name": "Напиток Chillout Bitter Tonic Лимон сильногазированный, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-chillout-bitter-limon-zhb-206484",
     "price": "64.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "CHILLOUT"
   },
   "229740": {
     "id": "229740",
     "name": "Напиток Chillout Tonic Bitter lemon, 330мл",
     "url": "https://online.metro-cc.ru/products/033l-gaz-nap-chillout-tonik-limon-st-229740",
     "price": "62.90",
-    "promo_price": "No promo"
+    "promo_price": "No promo",
+    "brand": "CHILLOUT"
   }
 }
